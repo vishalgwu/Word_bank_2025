@@ -247,14 +247,4 @@ This project supports deeper research on:
 
 ---
 
-## 📄 License
 
-This project uses publicly available World Bank datasets.
-
----
-
-## 👨‍💻 Maintainer
-
-Repository Owner
-
-Last updated: (auto-updated on edit)
